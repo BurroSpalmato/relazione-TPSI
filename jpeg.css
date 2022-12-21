@@ -1,0 +1,21 @@
+p{
+    color: aliceblue;
+}
+ul{
+    color: aliceblue;
+}
+body{
+    background-color: black;
+}
+img{
+    text-align: center;
+    display: block;
+    margin: auto;
+    border: 7px solid #000;
+    border-color:#BF2E97;
+    border-radius: 20px;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
